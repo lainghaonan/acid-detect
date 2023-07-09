@@ -1,0 +1,21 @@
+Change Component Comment : Designator=U4 Old Comment=SN65HVD3082EDG4 New Comment=SN65HV082EDG4
+Change Component Designator: OldDesignator=D30 NewDesignator=0
+Change Component Designator: OldDesignator=D31 NewDesignator=1
+Change Component Designator: OldDesignator=D32 NewDesignator=2
+Change Component Designator: OldDesignator=D33 NewDesignator=3
+Change Component Designator: OldDesignator=D34 NewDesignator=4
+Change Component Designator: OldDesignator=D35 NewDesignator=5
+Change Component Designator: OldDesignator=D36 NewDesignator=6
+Change Component Designator: OldDesignator=D37 NewDesignator=7
+Change Component Designator: OldDesignator=D38 NewDesignator=8
+Change Component Designator: OldDesignator=D39 NewDesignator=9
+Change Component Designator: OldDesignator=J? NewDesignator=J40
+Change Net Name : Old Net Name=D3 New Net Name=NetR11_2
+Change Net Name : Old Net Name=DD5 New Net Name=D
+Change Net Name : Old Net Name=IND3 New Net Name=IN
+Change Net Name : Old Net Name=NetD31_K New Net Name=Net1_K
+Change Net Name : Old Net Name=NetD33_K New Net Name=Net3_K
+Change Net Name : Old Net Name=NetD35_K New Net Name=Net5_K
+Change Net Name : Old Net Name=NetD37_K New Net Name=Net7_K
+Change Net Name : Old Net Name=NetD39_K New Net Name=Net9_K
+Change Net Name : Old Net Name=OUTD3 New Net Name=OUT

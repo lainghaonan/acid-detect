@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P2 Old Footprint=WJ2EDGR-5.08-2 New Footprint=WJ2EDGR-5.08-4
+Change Component Footprint: Designator=P3 Old Footprint=WJ2EDGR-5.08-2 New Footprint=WJ2EDGR-5.08-4
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4

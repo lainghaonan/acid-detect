@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=Rp? NewDesignator=Rp1
+Added Component: Designator=J1(XH2.54-4P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW1(B3FS-101X)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=J1-1
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=SWCLK Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=NetC3_2 Pin=SW1-2
+Added Member To Class: ClassName=U_STM32最小系统 Member=Component J1 CON4
+Added Member To Class: ClassName=U_STM32最小系统 Member=Component SW1 SWITCH

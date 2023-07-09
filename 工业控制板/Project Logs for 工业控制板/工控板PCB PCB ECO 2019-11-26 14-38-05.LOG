@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=INPUT1_H Pin=J30-1
+Removed Pin From Net: NetName=INPUT1_H Pin=J32-1
+Removed Pin From Net: NetName=INPUT1_L Pin=K19-1
+Removed Pin From Net: NetName=INPUT1_L Pin=K21-1
+Added Component: Designator=R35(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18576.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17888"; VariantName = "[No Variations]"
+Added Component: Designator=R36(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18576.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17888"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=INPUT1_H Pin=R35-1
+Added Pin To Net: NetName=INPUT1_L Pin=R36-1
+Change Net Name : Old Net Name=INPUT1_H New Net Name=12V
+Change Net Name : Old Net Name=INPUT1_L New Net Name=GND
+Added Pin To Net: NetName=INPUT1_H Pin=J30-1
+Added Pin To Net: NetName=INPUT1_H Pin=J32-1
+Added Pin To Net: NetName=INPUT1_H Pin=R35-2
+Added Net: Name=INPUT1_H
+Added Pin To Net: NetName=INPUT1_L Pin=K19-1
+Added Pin To Net: NetName=INPUT1_L Pin=K21-1
+Added Pin To Net: NetName=INPUT1_L Pin=R36-2
+Added Net: Name=INPUT1_L
+Added Member To Class: ClassName=U_继电器驱动输出 Member=Component R35 0Ω (0R0) ±1%
+Added Member To Class: ClassName=U_继电器驱动输出 Member=Component R36 0Ω (0R0) ±1%

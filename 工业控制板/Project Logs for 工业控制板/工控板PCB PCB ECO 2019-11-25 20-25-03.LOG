@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=D2 Pin=PH3-4
+Removed Pin From Net: NetName=D3 Pin=PH4-4
+Added Pin To Net: NetName=D5 Pin=PH3-4
+Added Pin To Net: NetName=D6 Pin=PH4-4
+Added Pin To Net: NetName=A8 Pin=R93-2
+Added Pin To Net: NetName=A15 Pin=R107-2
+Change Net Name : Old Net Name=ANIN1 New Net Name=A13
+Change Net Name : Old Net Name=ANIN2 New Net Name=A14
+Added Member To Class: ClassName=A[0..15] Member=Element[13]: A
+Added Member To Class: ClassName=A[0..15] Member=Element[14]: A

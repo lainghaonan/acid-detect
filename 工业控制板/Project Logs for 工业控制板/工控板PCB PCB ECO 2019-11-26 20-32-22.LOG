@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=INPUT_L Pin=CX1-1
+Removed Pin From Net: NetName=INPUT_H Pin=CX1-2
+Removed Pin From Net: NetName=INPUT_H Pin=CX1-2
+Removed Pin From Net: NetName=NetFL1_1 Pin=FL1-1
+Removed Pin From Net: NetName=NetFL1_3 Pin=FL1-3
+Removed Pin From Net: NetName=INPUT_L Pin=FL1-4
+Removed Pin From Net: NetName=NetFL1_3 Pin=J3-1
+Removed Pin From Net: NetName=NetFL1_1 Pin=J3-3
+Removed Pin From Net: NetName=INPUT_H Pin=T1-2
+Removed Pin From Net: NetName=INPUT_H Pin=U7-1
+Removed Pin From Net: NetName=INPUT_L Pin=U7-2
+Removed Pin From Net: NetName=INPUT_H Pin=ZNR1-1
+Removed Pin From Net: NetName=INPUT_L Pin=ZNR1-2
+Added Pin To Net: NetName=NetFL1_1 Pin=CX1-1
+Added Pin To Net: NetName=NetFL1_3 Pin=CX1-2
+Added Pin To Net: NetName=NetFL1_3 Pin=CX1-2
+Added Pin To Net: NetName=INPUT_H Pin=FL1-1
+Added Pin To Net: NetName=INPUT_L Pin=FL1-3
+Added Pin To Net: NetName=NetFL1_1 Pin=FL1-4
+Added Pin To Net: NetName=INPUT_L Pin=J3-1
+Added Pin To Net: NetName=INPUT_H Pin=J3-3
+Added Pin To Net: NetName=NetFL1_3 Pin=T1-2
+Added Pin To Net: NetName=NetFL1_3 Pin=U7-1
+Added Pin To Net: NetName=NetFL1_1 Pin=U7-2
+Added Pin To Net: NetName=NetFL1_3 Pin=ZNR1-1
+Added Pin To Net: NetName=NetFL1_1 Pin=ZNR1-2
+Change Net Name : Old Net Name=NetFL1_1 New Net Name=N
+Change Net Name : Old Net Name=NetFL1_3 New Net Name=L

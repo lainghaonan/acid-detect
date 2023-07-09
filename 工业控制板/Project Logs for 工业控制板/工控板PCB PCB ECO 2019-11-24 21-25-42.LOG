@@ -1,0 +1,64 @@
+Removed Member From Class: ClassName=DD[0..8] Member=D
+Removed Member From Class: ClassName=IND[0..6] Member=IN
+Removed Member From Class: ClassName=D[0..15] Member=NetR11_2
+Removed Member From Class: ClassName=OUTD[0..6] Member=OUT
+Added Component: Designator=C49(0805_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_29074.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C28323"; VariantName = "[No Variations]"
+Added Component: Designator=C51(0805_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_29074.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C28323"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMBJ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15669.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14996"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SMBJ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15669.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14996"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SMBJ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15669.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14996"; VariantName = "[No Variations]"
+Added Component: Designator=U20(SOP-8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=12V Pin=C49-2
+Added Pin To Net: NetName=12V Pin=C51-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD3_2 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Pin To Net: NetName=NetR44_1 Pin=U20-1
+Added Pin To Net: NetName=NetR43_1 Pin=U20-2
+Added Pin To Net: NetName=NetPOT1_6 Pin=U20-3
+Added Pin To Net: NetName=GND Pin=U20-4
+Added Pin To Net: NetName=NetPOT1_3 Pin=U20-5
+Added Pin To Net: NetName=NetR47_1 Pin=U20-6
+Added Pin To Net: NetName=NetR45_1 Pin=U20-7
+Added Pin To Net: NetName=NetC53_1 Pin=U20-8
+Added Member To Class: ClassName=U_电机驱动&步进电机驱动 Member=Component C49 1uF (105) 10% 50V
+Added Member To Class: ClassName=U_电机驱动&步进电机驱动 Member=Component C51 1uF (105) 10% 50V
+Added Member To Class: ClassName=U_RS485_RS232 Member=Component D3 SMBJ12CA
+Added Member To Class: ClassName=U_RS485_RS232 Member=Component D4 SMBJ24CA
+Added Member To Class: ClassName=U_RS485_RS232 Member=Component D5 SMBJ12CA
+Added Member To Class: ClassName=U_四路电压输入比较器 Member=Component U20 LM2903
+Added Member To Class: ClassName=D[0..15] Member=Element[3]: D

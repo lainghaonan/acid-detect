@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=POT1-2
+Removed Pin From Net: NetName=NetPOT1_3 Pin=POT1-3
+Change Component Comment : Designator=POT1 Old Comment=R09电位器 New Comment=R09
+Added Component: Designator=POT2(R09-5K)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=POT2-2
+Added Pin To Net: NetName=NetPOT1_3 Pin=POT2-3
+Change Net Name : Old Net Name=NetPOT1_3 New Net Name=NetPOT2_3
+Added Member To Class: ClassName=U_四路电压输入比较器 Member=Component POT2 R09电位器
+Added Member To Class: ClassName=A[0..15] Member=Element[1]: A

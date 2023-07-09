@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=A15 Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-48
+Removed Member From Class: ClassName=U_STM32最小系统 Member=R1
+Change Component Comment : Designator=C? Old Comment=1.0uF (105) 10% 25V New Comment=1pF (1R0) 0.25pF 50V
+Change component parameters: Designator = "C?"; Footprint = "0402_C"; UniqueID = "\OGFNQYHQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1902.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C1550"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1902.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1550"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=A1 Pin=C?-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-76
+Change Net Name : Old Net Name=NetR1_2 New Net Name=B15
+Added Pin To Net: NetName=B0 Pin=U1-46
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=C?-2
+Added Pin To Net: NetName=B1 Pin=U1-47
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=U1-48
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=U1-133
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=U1-134
+Added Net: Name=B4
+Added Pin To Net: NetName=B5 Pin=U1-135
+Added Net: Name=B5
+Added Pin To Net: NetName=B6 Pin=U1-136
+Added Net: Name=B6
+Added Pin To Net: NetName=B7 Pin=U1-137
+Added Net: Name=B7
+Added Pin To Net: NetName=B8 Pin=U1-139
+Added Net: Name=B8
+Added Pin To Net: NetName=B9 Pin=U1-140
+Added Net: Name=B9
+Added Pin To Net: NetName=B10 Pin=U1-69
+Added Net: Name=B10
+Added Pin To Net: NetName=B11 Pin=U1-70
+Added Net: Name=B11
+Added Pin To Net: NetName=B12 Pin=U1-73
+Added Net: Name=B12
+Added Pin To Net: NetName=B13 Pin=U1-74
+Added Net: Name=B13
+Added Pin To Net: NetName=B14 Pin=U1-75
+Added Net: Name=B14
+Added Class: Name=B[0..15]
+Added Member To Class: ClassName=总图 Member=Component C? 1pF (1R0) 0.25pF 50V

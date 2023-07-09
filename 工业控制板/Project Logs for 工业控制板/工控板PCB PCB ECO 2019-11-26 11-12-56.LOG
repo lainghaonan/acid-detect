@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetD19_1 Pin=D23-2
+Removed Pin From Net: NetName=NetD20_1 Pin=D24-2
+Removed Pin From Net: NetName=NetD21_1 Pin=D25-2
+Added Pin To Net: NetName=INPUT1_L Pin=C52-1
+Added Pin To Net: NetName=INPUT1_L Pin=Q3-2
+Added Pin To Net: NetName=INPUT1_L Pin=Q4-2

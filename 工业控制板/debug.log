@@ -1,0 +1,12 @@
+[1127/105555:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[1202/182833:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1203/180610:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1207/183246:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1207/183249:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1207/184238:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1207/184243:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1207/184248:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1207/184249:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1207/184253:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1210/143230:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1210/143236:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

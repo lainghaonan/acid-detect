@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=INPUT_L Pin=J13-1
+Removed Pin From Net: NetName=INPUT_H Pin=J13-2
+Removed Member From Class: ClassName=U_继电器驱动输出 Member=J13
+Removed Member From Class: ClassName=U_继电器驱动输出 Member=J40
+Added Pin To Net: NetName=INPUT_L Pin=CX1-1
+Added Pin To Net: NetName=INPUT_H Pin=CX1-2
+Added Pin To Net: NetName=INPUT_H Pin=CX1-2
+Added Pin To Net: NetName=INPUT_L Pin=FL1-4
+Added Pin To Net: NetName=12V Pin=J30-1
+Added Pin To Net: NetName=12V Pin=J32-1
+Added Pin To Net: NetName=GND Pin=K19-1
+Added Pin To Net: NetName=GND Pin=K21-1
+Added Pin To Net: NetName=INPUT_H Pin=T1-2
+Added Pin To Net: NetName=INPUT_H Pin=U7-1
+Added Pin To Net: NetName=INPUT_L Pin=U7-2
+Added Pin To Net: NetName=INPUT_H Pin=ZNR1-1
+Added Pin To Net: NetName=INPUT_L Pin=ZNR1-2
+Change Net Name : Old Net Name=12V New Net Name=INPUT1_H
+Change Net Name : Old Net Name=GND New Net Name=INPUT1_L

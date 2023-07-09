@@ -1,0 +1,63 @@
+Added Component: Designator=D30(0805_LED_S1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2669.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C2296"; VariantName = "[No Variations]"
+Added Component: Designator=D31(0805_LED_S1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2669.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C2296"; VariantName = "[No Variations]"
+Added Component: Designator=D32(0805_LED_S1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2669.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C2296"; VariantName = "[No Variations]"
+Added Component: Designator=R88(0805_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18102.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17414"; VariantName = "[No Variations]"
+Added Component: Designator=R89(0805_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18361.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17673"; VariantName = "[No Variations]"
+Added Component: Designator=R90(0805_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18361.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17673"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D30-K
+Added Pin To Net: NetName=GND Pin=D31-K
+Added Pin To Net: NetName=GND Pin=D32-K
+Added Pin To Net: NetName=12V Pin=R88-1
+Added Pin To Net: NetName=5V Pin=R89-1
+Added Pin To Net: NetName=3.3V Pin=R90-1
+Added Pin To Net: NetName=NetD30_A Pin=D30-A
+Added Pin To Net: NetName=NetD30_A Pin=R88-2
+Added Net: Name=NetD30_A
+Added Pin To Net: NetName=NetD31_A Pin=D31-A
+Added Pin To Net: NetName=NetD31_A Pin=R89-2
+Added Net: Name=NetD31_A
+Added Pin To Net: NetName=NetD32_A Pin=D32-A
+Added Pin To Net: NetName=NetD32_A Pin=R90-2
+Added Net: Name=NetD32_A
+Added Member To Class: ClassName=U_电源 Member=Component D30 黄灯 0805
+Added Member To Class: ClassName=U_电源 Member=Component D31 黄灯 0805
+Added Member To Class: ClassName=U_电源 Member=Component D32 黄灯 0805
+Added Member To Class: ClassName=U_电源 Member=Component R88 10KΩ (1002) ±1%
+Added Member To Class: ClassName=U_电源 Member=Component R89 4.7KΩ (4701) ±1%
+Added Member To Class: ClassName=U_电源 Member=Component R90 4.7KΩ (4701) ±1%

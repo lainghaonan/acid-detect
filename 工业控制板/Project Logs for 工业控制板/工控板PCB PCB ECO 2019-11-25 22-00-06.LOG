@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J44 Old Footprint=WJ500V-5.08-2 New Footprint=WJ2EDGR-5.08-2
+Added Component: Designator=R110(0805_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18201.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17513"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R110-1
+Added Pin To Net: NetName=NetR108_1 Pin=R110-2
+Added Member To Class: ClassName=U_光耦输入&AD输入 Member=Component R110 1KΩ (1001) ±1%
