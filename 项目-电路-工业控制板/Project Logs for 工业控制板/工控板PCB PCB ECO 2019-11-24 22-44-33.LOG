@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=A11 Pin=J44-1
-Added Pin To Net: NetName=A12 Pin=J44-2
-Added Pin To Net: NetName=A15 Pin=J44-5
-Change Net Name : Old Net Name=PA13 New Net Name=A13
-Change Net Name : Old Net Name=PA14 New Net Name=A14
-Added Member To Class: ClassName=A[0..15] Member=Element[13]: A
-Added Member To Class: ClassName=A[0..15] Member=Element[14]: A

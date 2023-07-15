@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=D8 Pin=R48-1
-Removed Pin From Net: NetName=D9 Pin=R49-1
-Removed Pin From Net: NetName=D8 Pin=SP+7-1
-Removed Pin From Net: NetName=D9 Pin=SP+9-1
-Added Pin To Net: NetName=B9 Pin=R48-1
-Added Pin To Net: NetName=G15 Pin=R49-1
-Added Pin To Net: NetName=B9 Pin=SP+7-1
-Added Pin To Net: NetName=G15 Pin=SP+9-1

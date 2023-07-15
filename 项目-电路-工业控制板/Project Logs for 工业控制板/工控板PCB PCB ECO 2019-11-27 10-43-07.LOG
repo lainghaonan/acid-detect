@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=D11 Pin=l3-5
-Removed Pin From Net: NetName=D10 Pin=l3-6
-Added Pin To Net: NetName=D10 Pin=l3-5
-Added Pin To Net: NetName=D11 Pin=l3-6
